@@ -18,7 +18,7 @@ In enterprise e-commerce and SaaS ecosystems, customer data is fragmented across
 * **How durable is our customer retention across signup cohorts?** (Cohort Retention Matrices)
 * **Which marketing acquisition channels produce the highest ROI and payback speed?** (CAC vs CLV Analysis)
 * **What operational bottlenecks drive customer churn?** (Support SLA & CSAT Attribution)
-* **Can we predict and preempt churn before it happens?** (Machine Learning Churn Prediction)
+* **Can we predict and preempt churn before it happens ?** (Machine Learning Churn Prediction)
 * **Can business stakeholders query the warehouse in real time?** (Interactive SQL Query Workbench)
 
 ---
