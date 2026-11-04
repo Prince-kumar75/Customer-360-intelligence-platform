@@ -1,0 +1,65 @@
+{
+  "total_revenue": 8249152.15,
+  "total_orders": 36922,
+  "total_customers": 5000,
+  "active_customers_90d": 2182,
+  "avg_order_value": 223.42,
+  "overall_churn_rate_pct": 50.56,
+  "repeat_purchase_rate_pct": 84.76,
+  "avg_customer_lifetime_value": 1649.83,
+  "avg_customer_acquisition_cost": 53.06,
+  "ltv_to_cac_ratio": 31.09,
+  "avg_csat_rating": 2.77,
+  "segments": {
+    "Champions": {
+      "customer_count": 1474,
+      "total_spend": 5546844.64,
+      "avg_spend": 3763.12
+    },
+    "Hibernating / Lost": {
+      "customer_count": 1432,
+      "total_spend": 455339.32,
+      "avg_spend": 317.97
+    },
+    "Loyal Customers": {
+      "customer_count": 841,
+      "total_spend": 1342731.38,
+      "avg_spend": 1596.59
+    },
+    "At Risk": {
+      "customer_count": 455,
+      "total_spend": 495512.63,
+      "avg_spend": 1089.04
+    },
+    "Promising": {
+      "customer_count": 305,
+      "total_spend": 158003.93,
+      "avg_spend": 518.05
+    },
+    "Potential Loyalists": {
+      "customer_count": 156,
+      "total_spend": 87892.44,
+      "avg_spend": 563.41
+    },
+    "Customers Needing Attention": {
+      "customer_count": 152,
+      "total_spend": 36466.14,
+      "avg_spend": 239.91
+    },
+    "About To Sleep": {
+      "customer_count": 106,
+      "total_spend": 103721.03,
+      "avg_spend": 978.5
+    },
+    "Recent Customers": {
+      "customer_count": 72,
+      "total_spend": 14906.64,
+      "avg_spend": 207.04
+    },
+    "Can't Lose Them": {
+      "customer_count": 7,
+      "total_spend": 7734.0,
+      "avg_spend": 1104.86
+    }
+  }
+}

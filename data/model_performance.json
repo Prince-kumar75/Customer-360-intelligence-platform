@@ -1,0 +1,59 @@
+{
+  "model_name": "Gradient Boosting Classifier",
+  "roc_auc_score": 0.9998,
+  "f1_score": 0.9952,
+  "train_samples": 3750,
+  "test_samples": 1250,
+  "feature_importances": [
+    {
+      "feature": "recency_days",
+      "importance_pct": 88.78
+    },
+    {
+      "feature": "frequency",
+      "importance_pct": 7.36
+    },
+    {
+      "feature": "avg_resolution_time_hrs",
+      "importance_pct": 1.46
+    },
+    {
+      "feature": "avg_sentiment_score",
+      "importance_pct": 0.55
+    },
+    {
+      "feature": "monetary",
+      "importance_pct": 0.53
+    },
+    {
+      "feature": "total_sessions",
+      "importance_pct": 0.52
+    },
+    {
+      "feature": "cac",
+      "importance_pct": 0.24
+    },
+    {
+      "feature": "total_items_purchased",
+      "importance_pct": 0.16
+    },
+    {
+      "feature": "avg_order_value",
+      "importance_pct": 0.15
+    },
+    {
+      "feature": "support_ticket_count",
+      "importance_pct": 0.13
+    },
+    {
+      "feature": "avg_csat_score",
+      "importance_pct": 0.1
+    }
+  ],
+  "risk_tier_counts": {
+    "Critical": 2519,
+    "Low": 2474,
+    "High": 4,
+    "Medium": 3
+  }
+}
