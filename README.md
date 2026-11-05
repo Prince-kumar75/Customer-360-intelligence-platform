@@ -4,9 +4,10 @@
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://python.org)
 [![Next.js](https://img.shields.io/badge/Next.js-16.4-black.svg)](https://nextjs.org)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FPrince-kumar75%2FCustomer-360-intelligence-platform)
 [![SQLite](https://img.shields.io/badge/Database-SQLite%2FDuckDB-003B57.svg)](https://sqlite.org)
 [![Scikit-Learn](https://img.shields.io/badge/ML-Scikit--Learn%20%2F%20GradientBoosting-F7931E.svg)](https://scikit-learn.org)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS%20v4-38B2AC.svg)](https://tailwindcss.com)
+[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg)](https://docker.com)
 
 ---
 
