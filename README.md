@@ -1,6 +1,6 @@
 # 🌐 Customer 360 Intelligence Platform
 > **Enterprise Data Analyst & Business Intelligence Portfolio Project**  
-> An end-to-end analytical data platform delivering omni-channel customer intelligence, RFM segmentation, cohort retention matrices, predictive ML churn modeling, and an interactive SQL query workbench with web analytics dashboards.
+> An end-to-end analytical data platform delivering omni-channel customer intelligence, RFM segmentation, cohort retention matrices, predictive ML churn modeling, and an interactive SQL query workbench with webanalytics dashboards.
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://python.org)
 [![Next.js](https://img.shields.io/badge/Next.js-16.4-black.svg)](https://nextjs.org)
