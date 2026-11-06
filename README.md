@@ -134,7 +134,7 @@ http://localhost:8000
 
 ### 5. Predictive Churn & ML Risk Intelligence
 * **Algorithm:** Gradient Boosting Classifier with **0.9998 ROC-AUC** and **0.9952 F1-score**.
-* **Top Predictors:** Recency Days (88.8%), Order Frequency (7.4%), Support SLA Resolution Delays (1.5%), Sentiment Score (0.6%).
+* **Top Predictors:** Recency Days (88.8%), Order Frequency (7.4%), Support SLA Resolution Delays (1.5%), Sentiment Score(0.6%).
 * **SLA Bottleneck Finding:** Support resolution delays exceeding 48 hours show a **100% defection rate**.
 
 ### 6. Interactive Live SQL Query Workbench
